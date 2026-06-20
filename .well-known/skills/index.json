@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-20",
+  "skills": [
+    {
+      "name": "ux-evaluator",
+      "description": "网页用户体验测评。面向公有云/SaaS 产品，基于用户体验五要素进行系统化测评，输出 HTML 测评报告。",
+      "tags": ["ux", "evaluation", "usability", "conversion"],
+      "identifier": "ux-evaluator",
+      "path": "ux-evaluator"
+    }
+  ]
+}
