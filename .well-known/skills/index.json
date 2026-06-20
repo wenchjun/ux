@@ -8,6 +8,13 @@
       "tags": ["ux", "evaluation", "usability", "conversion"],
       "identifier": "ux-evaluator",
       "path": "ux-evaluator"
+    },
+    {
+      "name": "product-insight",
+      "description": "产品洞察与战略规划。五维深度分析（战略/客群/商业/竞争力/体验）、竞品对比、行业趋势研究，输出结构化洞察报告。",
+      "tags": ["product", "insight", "strategy", "competitive-analysis", "research"],
+      "identifier": "product-insight",
+      "path": "product-insight"
     }
   ]
 }
